@@ -1,7 +1,7 @@
 #需要安装的包为selenium
 
 #pip install selenium -i https://pypi.tuna.tsinghua.edu.cn/simple 
-#清华源
+
 
 
 ![image](https://github.com/user-attachments/assets/63c62c1d-67ed-4855-b84e-19ef195d47be)
