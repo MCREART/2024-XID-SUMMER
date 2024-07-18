@@ -1,1 +1,10 @@
-# -
+#需要安装的包为selenium
+pip install selenium -i https://pypi.tuna.tsinghua.edu.cn/simple 
+#清华源
+
+
+![image](https://github.com/user-attachments/assets/63c62c1d-67ed-4855-b84e-19ef195d47be)
+
+# 打开网页
+driver.get('https://myd.iscn.org.cn/#/s/6rPmYeqD?sourceId=632797') #代码的这个地方，后面的6个数字改成自己的就可以开始运行了
+time.sleep(1)
